@@ -3,7 +3,6 @@
    use App\Controller\AppController;
    use Cake\ORM\TableRegistry;
    use Cake\Datasource\ConnectionManager;
-   use Cake\ORM\Locator\LocatorAwareTrait;
    use Cake\Auth\DefaultPasswordHasher;
 
    class NotesController extends AppController{
